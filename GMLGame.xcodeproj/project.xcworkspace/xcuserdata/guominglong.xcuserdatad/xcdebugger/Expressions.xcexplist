@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.aaa(UnsafePointer&lt;(GMLEvent) -&gt; ()&gt;) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ttt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TestLayer.drawInContext(CGContext) -&gt; ():TestLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "img.size.width/2.0">
+            </PersistentString>
+            <PersistentString
+               value = "NSString(string: &quot;5689c663daa48_1024&quot;).UTF8String">
+            </PersistentString>
+            <PersistentString
+               value = "provider">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLMonster.update() -&gt; ():GMLMonster.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bitmapRect">
+            </PersistentString>
+            <PersistentString
+               value = "currentAniFrameIndex">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "random()">
+            </PersistentString>
+            <PersistentString
+               value = "ttt">
+            </PersistentString>
+            <PersistentString
+               value = "nv.layer">
+            </PersistentString>
+            <PersistentString
+               value = "NSFileManager.defaultManager()">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.bounds">
+            </PersistentString>
+            <PersistentString
+               value = "&amp;assert">
+            </PersistentString>
+            <PersistentString
+               value = "btn_save.layer">
+            </PersistentString>
+            <PersistentString
+               value = "&amp;self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HeaderView.init(frame : CGRect) -&gt; HeaderView:HeaderView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentImg.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MutileViewController.prepareForSegue(NSStoryboardSegue, sender : AnyObject?) -&gt; ():MutileViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "tView.(ginit in _A6C8B6D6CE56AF41723204AE794CB401)() -&gt; ():tView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.layer">
+            </PersistentString>
+            <PersistentString
+               value = "url.URL">
+            </PersistentString>
+            <PersistentString
+               value = "tl.contentsScale">
+            </PersistentString>
+            <PersistentString
+               value = "(img.representations[0])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "tView.drawRect(CGRect) -&gt; ():tView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.layer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MutileViewController.onbtnclick(NSButton) -&gt; ():MutileViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "vc.view.window">
+            </PersistentString>
+            <PersistentString
+               value = "vc.parentViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLEventDispatcher.addEventListener(String, execFunc : (GMLEvent) -&gt; ()) -&gt; ():GMLEventDispatcher.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventDic.count">
+            </PersistentString>
+            <PersistentString
+               value = "eventDic[eventName]">
+            </PersistentString>
+            <PersistentString
+               value = "eventDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLMonster.drawToCGContext(CGContext) -&gt; ():GMLMonster.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bitmapRect">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.fileImage() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "imgs.count">
+            </PersistentString>
+            <PersistentString
+               value = "beImg">
+            </PersistentString>
+            <PersistentString
+               value = "currentI">
+            </PersistentString>
+            <PersistentString
+               value = "currentI &gt;= beImg.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.tosave(AnyObject) -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tempImg.representations[0].CGImage">
+            </PersistentString>
+            <PersistentString
+               value = "tv.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.startfunc2() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "openView.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLRenderManager.toRender() -&gt; ():GMLRenderManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "tView.((ginit in _A6C8B6D6CE56AF41723204AE794CB401)(tView) -&gt; () -&gt; ()).(complete #1)(NSURLResponse?, nd : NSData?, ne : NSError?) -&gt; ():tView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResourceManager.(disposeFileReader in _B11A1925FB783E4488024A8B8F13C8B8)(FileReader) -&gt; ():ResourceManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileReaderDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized Starter.startRenderManager() -&gt; () [inlined]:Starter.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GMLRenderManager.instance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLEventDispatcher.removeEventListener(String) -&gt; ():GMLEventDispatcher.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "eventDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "tView.getBmp() -&gt; NSBitmapImageRep:tView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSBitmapImageRep(focusedViewRect: self.bounds)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLFactoryManager.getAniBitmap(String, gmlAniType : String, currentFrameIdx : Int, isLoop : Bool) -&gt; (NSBitmapImageRep?, Int, Bool):GMLFactoryManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;\(nameKey)\(gmlAniType)&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLFactoryManager.addMonsterConfig(NSDictionary) -&gt; ():GMLFactoryManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGBmpHeight">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResourceManager.(fileLoadend in _B11A1925FB783E4488024A8B8F13C8B8)(GMLEvent) -&gt; ():ResourceManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fileType">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "tView.((ginit in _A6C8B6D6CE56AF41723204AE794CB401)(tView) -&gt; () -&gt; ()).(complete #1)(NSURLResponse?, nd : NSData?, ne : NSError?)():tView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.imgdATA">
+            </PersistentString>
+            <PersistentString
+               value = "imgRep.size">
+            </PersistentString>
+            <PersistentString
+               value = "tempImg.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Starter.start() -&gt; ():Starter.swift">
+      </ContextState>
+      <ContextState
+         contextName = "@nonobjc NSDictionary.init(contentsOfFile : String) -&gt; NSDictionary? [inlined]:ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;\(NSBundle.mainBundle().bundlePath)/aniTest.plist&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLFactoryManager.getAniBitmapRect(String, gmlAniType : String, currentFrameIdx : Int) -&gt; (CGRect?, Int, Bool):GMLFactoryManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arr![currentFrameIdx]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLLayer.drawInContext(CGContext) -&gt; ():GMLLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentI">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MyAni.animatePresentationOfViewController(NSViewController, fromViewController : NSViewController) -&gt; ():MutileViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fromViewController.view.window">
+            </PersistentString>
+            <PersistentString
+               value = "viewController.view.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResourceManager.addResourceByLocalURL(String, url : NSURL, type : String) -&gt; ():ResourceManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resourceDic[key]">
+            </PersistentString>
+            <PersistentString
+               value = "resourceDic">
+            </PersistentString>
+            <PersistentString
+               value = "NSData(contentsOfFile: url.path!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResourceManager.init() -&gt; ResourceManager:ResourceManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resourceDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLImageManager.getImgForKey(String) -&gt; NSBitmapImageRep?:GMLImageManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_imgDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ResourceManager.addResourceByLocalURL(String, url : String, type : String) -&gt; ():ResourceManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "resourceDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GMLFactoryManager.getAniBitmapRect(String, gmlAniType : String, currentFrameIdx : Int) -&gt; (CGRect?, Int):GMLFactoryManager.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

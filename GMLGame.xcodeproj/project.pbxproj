@@ -7,44 +7,113 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E1373091C464B9300478B93 /* 5689c663daa48_1024.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4E1373081C464B9300478B93 /* 5689c663daa48_1024.jpg */; };
+		4E13730B1C46831300478B93 /* test.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E13730A1C46831300478B93 /* test.png */; };
+		4E13730F1C46854F00478B93 /* 5689c663daa48_1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E13730E1C46854F00478B93 /* 5689c663daa48_1024.png */; };
+		4E1373111C4685EA00478B93 /* 5689c663daa48_1025.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E1373101C4685EA00478B93 /* 5689c663daa48_1025.png */; };
+		4E1373131C47B08400478B93 /* ANIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E1373121C47B08400478B93 /* ANIView.swift */; };
+		4E150EAE1C48A7E500CCBEC7 /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E150E991C489FB500CCBEC7 /* libz.tbd */; };
+		4E150EB91C48FB3500CCBEC7 /* TestLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E150EB71C48FB3500CCBEC7 /* TestLayer.swift */; };
+		4E150EBE1C48FE0100CCBEC7 /* GMLEventDispatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E150EBD1C48FE0100CCBEC7 /* GMLEventDispatcher.swift */; };
+		4E150EC01C48FF9300CCBEC7 /* GMLEvent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E150EBF1C48FF9300CCBEC7 /* GMLEvent.swift */; };
+		4E3A72461C560B6C00655B62 /* Metal.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E3A72451C560B6C00655B62 /* Metal.framework */; };
+		4E3A72481C5627A400655B62 /* myMetal.metal in Sources */ = {isa = PBXBuildFile; fileRef = 4E3A72471C5627A400655B62 /* myMetal.metal */; };
+		4E3A724A1C56323C00655B62 /* MetalKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E3A72491C56323C00655B62 /* MetalKit.framework */; };
+		4E3A724C1C5635FC00655B62 /* MetalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E3A724B1C5635FC00655B62 /* MetalView.swift */; };
+		4E4A78851C4B521000E091C7 /* FileReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A78841C4B521000E091C7 /* FileReader.swift */; };
+		4E4A78871C4B523700E091C7 /* GMLDataResourceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A78861C4B523700E091C7 /* GMLDataResourceManager.swift */; };
+		4E4A78891C4B7F9C00E091C7 /* Tool.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A78881C4B7F9C00E091C7 /* Tool.swift */; };
+		4E4A78941C4CEA7300E091C7 /* GMLObject.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A78911C4CEA7300E091C7 /* GMLObject.swift */; };
+		4E4A78961C4CEA7300E091C7 /* GMLSceneManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A78931C4CEA7300E091C7 /* GMLSceneManager.swift */; };
+		4E4A78981C4CF7E600E091C7 /* GMLScriptManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A78971C4CF7E500E091C7 /* GMLScriptManager.swift */; };
+		4E4A789A1C4E0A6800E091C7 /* aniTest.plist in Resources */ = {isa = PBXBuildFile; fileRef = 4E4A78991C4E0A6800E091C7 /* aniTest.plist */; };
+		4E4A789C1C4E1B7E00E091C7 /* GMLEnums.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A789B1C4E1B7E00E091C7 /* GMLEnums.swift */; };
+		4E4A78A01C4E34A300E091C7 /* GMLImageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4A789F1C4E34A300E091C7 /* GMLImageManager.swift */; };
+		4E4F5C8A1CD0649100783482 /* MutileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E4F5C891CD0649100783482 /* MutileViewController.swift */; };
 		4E8EE6C91C3F87EA00678F0F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8EE6C81C3F87EA00678F0F /* AppDelegate.swift */; };
 		4E8EE6CB1C3F87EA00678F0F /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8EE6CA1C3F87EA00678F0F /* ViewController.swift */; };
 		4E8EE6CD1C3F87EA00678F0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E8EE6CC1C3F87EA00678F0F /* Assets.xcassets */; };
 		4E8EE6D01C3F87EA00678F0F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E8EE6CE1C3F87EA00678F0F /* Main.storyboard */; };
-		4E8EE6DB1C3F87EA00678F0F /* GMLGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8EE6DA1C3F87EA00678F0F /* GMLGameTests.swift */; };
-		4E8EE6E61C3F87EA00678F0F /* GMLGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8EE6E51C3F87EA00678F0F /* GMLGameUITests.swift */; };
+		4E8EE6F61C3F908C00678F0F /* MainController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8EE6F51C3F908C00678F0F /* MainController.swift */; };
+		4E8EE6FB1C3FA96D00678F0F /* tView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8EE6FA1C3FA96D00678F0F /* tView.swift */; };
+		4E8EE6FD1C3FB26F00678F0F /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8EE6FC1C3FB26F00678F0F /* QuartzCore.framework */; };
+		4E8EE6FF1C3FB52400678F0F /* AppKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8EE6FE1C3FB52400678F0F /* AppKit.framework */; };
+		4E8EE7011C3FB52B00678F0F /* CoreFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8EE7001C3FB52B00678F0F /* CoreFoundation.framework */; };
+		4E8EE7031C3FB53200678F0F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8EE7021C3FB53200678F0F /* Foundation.framework */; };
+		4E8EE7051C3FB53A00678F0F /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4E8EE7041C3FB53A00678F0F /* CoreGraphics.framework */; };
+		4E9CAF331C4E3DB500356701 /* Starter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF321C4E3DB500356701 /* Starter.swift */; };
+		4E9CAF371C4F6B0B00356701 /* GMLRenderManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF361C4F6B0B00356701 /* GMLRenderManager.swift */; };
+		4E9CAF391C4F6FB200356701 /* GMLLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF381C4F6FB200356701 /* GMLLayer.swift */; };
+		4E9CAF4E1C50B99100356701 /* GMLFactoryManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF4C1C50B99100356701 /* GMLFactoryManager.swift */; };
+		4E9CAF4F1C50B99100356701 /* GMLMonster.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF4D1C50B99100356701 /* GMLMonster.swift */; };
+		4E9CAF511C51D0A300356701 /* OpenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF501C51D0A300356701 /* OpenView.swift */; };
+		4E9CAF5D1C55CE3F00356701 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF5C1C55CE3F00356701 /* AppDelegate.swift */; };
+		4E9CAF5F1C55CE3F00356701 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF5E1C55CE3F00356701 /* MasterViewController.swift */; };
+		4E9CAF611C55CE3F00356701 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E9CAF601C55CE3F00356701 /* DetailViewController.swift */; };
+		4E9CAF641C55CE3F00356701 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E9CAF621C55CE3F00356701 /* Main.storyboard */; };
+		4E9CAF661C55CE3F00356701 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E9CAF651C55CE3F00356701 /* Assets.xcassets */; };
+		4E9CAF691C55CE3F00356701 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E9CAF671C55CE3F00356701 /* LaunchScreen.storyboard */; };
+		4E9CAF921C55D24D00356701 /* dis.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E9CAF8F1C55D24C00356701 /* dis.png */; };
+		4E9CAF931C55D24D00356701 /* siwang.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E9CAF901C55D24C00356701 /* siwang.png */; };
+		4E9CAF941C55D24D00356701 /* xiaoshi.png in Resources */ = {isa = PBXBuildFile; fileRef = 4E9CAF911C55D24D00356701 /* xiaoshi.png */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		4E8EE6D71C3F87EA00678F0F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4E8EE6BD1C3F87EA00678F0F /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 4E8EE6C41C3F87EA00678F0F;
-			remoteInfo = GMLGame;
-		};
-		4E8EE6E21C3F87EA00678F0F /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 4E8EE6BD1C3F87EA00678F0F /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 4E8EE6C41C3F87EA00678F0F;
-			remoteInfo = GMLGame;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		4E113E171C8ECA3D00686766 /* GMLGame.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = GMLGame.entitlements; sourceTree = "<group>"; };
+		4E1373081C464B9300478B93 /* 5689c663daa48_1024.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 5689c663daa48_1024.jpg; sourceTree = "<group>"; };
+		4E13730A1C46831300478B93 /* test.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = test.png; sourceTree = "<group>"; };
+		4E13730E1C46854F00478B93 /* 5689c663daa48_1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5689c663daa48_1024.png; sourceTree = "<group>"; };
+		4E1373101C4685EA00478B93 /* 5689c663daa48_1025.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5689c663daa48_1025.png; sourceTree = "<group>"; };
+		4E1373121C47B08400478B93 /* ANIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ANIView.swift; sourceTree = "<group>"; };
+		4E150E941C48987900CCBEC7 /* HeaderBridge.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HeaderBridge.h; sourceTree = "<group>"; };
+		4E150E991C489FB500CCBEC7 /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		4E150EB71C48FB3500CCBEC7 /* TestLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestLayer.swift; sourceTree = "<group>"; };
+		4E150EBD1C48FE0100CCBEC7 /* GMLEventDispatcher.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLEventDispatcher.swift; sourceTree = "<group>"; };
+		4E150EBF1C48FF9300CCBEC7 /* GMLEvent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLEvent.swift; sourceTree = "<group>"; };
+		4E3A72451C560B6C00655B62 /* Metal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Metal.framework; path = System/Library/Frameworks/Metal.framework; sourceTree = SDKROOT; };
+		4E3A72471C5627A400655B62 /* myMetal.metal */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.metal; path = myMetal.metal; sourceTree = "<group>"; };
+		4E3A72491C56323C00655B62 /* MetalKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MetalKit.framework; path = System/Library/Frameworks/MetalKit.framework; sourceTree = SDKROOT; };
+		4E3A724B1C5635FC00655B62 /* MetalView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MetalView.swift; sourceTree = "<group>"; };
+		4E4A78841C4B521000E091C7 /* FileReader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FileReader.swift; sourceTree = "<group>"; };
+		4E4A78861C4B523700E091C7 /* GMLDataResourceManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLDataResourceManager.swift; sourceTree = "<group>"; };
+		4E4A78881C4B7F9C00E091C7 /* Tool.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tool.swift; sourceTree = "<group>"; };
+		4E4A78911C4CEA7300E091C7 /* GMLObject.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLObject.swift; sourceTree = "<group>"; };
+		4E4A78931C4CEA7300E091C7 /* GMLSceneManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLSceneManager.swift; sourceTree = "<group>"; };
+		4E4A78971C4CF7E500E091C7 /* GMLScriptManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLScriptManager.swift; sourceTree = "<group>"; };
+		4E4A78991C4E0A6800E091C7 /* aniTest.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = aniTest.plist; sourceTree = "<group>"; };
+		4E4A789B1C4E1B7E00E091C7 /* GMLEnums.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLEnums.swift; sourceTree = "<group>"; };
+		4E4A789F1C4E34A300E091C7 /* GMLImageManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLImageManager.swift; sourceTree = "<group>"; };
+		4E4F5C891CD0649100783482 /* MutileViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MutileViewController.swift; sourceTree = "<group>"; };
 		4E8EE6C51C3F87EA00678F0F /* GMLGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GMLGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4E8EE6C81C3F87EA00678F0F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4E8EE6CA1C3F87EA00678F0F /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4E8EE6CC1C3F87EA00678F0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4E8EE6CF1C3F87EA00678F0F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4E8EE6D11C3F87EA00678F0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4E8EE6D61C3F87EA00678F0F /* GMLGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GMLGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		4E8EE6DA1C3F87EA00678F0F /* GMLGameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GMLGameTests.swift; sourceTree = "<group>"; };
-		4E8EE6DC1C3F87EA00678F0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		4E8EE6E11C3F87EA00678F0F /* GMLGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GMLGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		4E8EE6E51C3F87EA00678F0F /* GMLGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GMLGameUITests.swift; sourceTree = "<group>"; };
-		4E8EE6E71C3F87EA00678F0F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E8EE6F51C3F908C00678F0F /* MainController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MainController.swift; sourceTree = "<group>"; };
+		4E8EE6FA1C3FA96D00678F0F /* tView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = tView.swift; sourceTree = "<group>"; };
+		4E8EE6FC1C3FB26F00678F0F /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		4E8EE6FE1C3FB52400678F0F /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = System/Library/Frameworks/AppKit.framework; sourceTree = SDKROOT; };
+		4E8EE7001C3FB52B00678F0F /* CoreFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreFoundation.framework; path = System/Library/Frameworks/CoreFoundation.framework; sourceTree = SDKROOT; };
+		4E8EE7021C3FB53200678F0F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		4E8EE7041C3FB53A00678F0F /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		4E9CAF321C4E3DB500356701 /* Starter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Starter.swift; sourceTree = "<group>"; };
+		4E9CAF361C4F6B0B00356701 /* GMLRenderManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLRenderManager.swift; sourceTree = "<group>"; };
+		4E9CAF381C4F6FB200356701 /* GMLLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLLayer.swift; sourceTree = "<group>"; };
+		4E9CAF4C1C50B99100356701 /* GMLFactoryManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLFactoryManager.swift; sourceTree = "<group>"; };
+		4E9CAF4D1C50B99100356701 /* GMLMonster.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMLMonster.swift; sourceTree = "<group>"; };
+		4E9CAF501C51D0A300356701 /* OpenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpenView.swift; sourceTree = "<group>"; };
+		4E9CAF5A1C55CE3F00356701 /* iosttt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosttt.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4E9CAF5C1C55CE3F00356701 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4E9CAF5E1C55CE3F00356701 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
+		4E9CAF601C55CE3F00356701 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		4E9CAF631C55CE3F00356701 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4E9CAF651C55CE3F00356701 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4E9CAF681C55CE3F00356701 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4E9CAF6A1C55CE3F00356701 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4E9CAF8F1C55D24C00356701 /* dis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = dis.png; path = GMLGame/mySource/dis.png; sourceTree = "<group>"; };
+		4E9CAF901C55D24C00356701 /* siwang.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = siwang.png; path = GMLGame/mySource/siwang.png; sourceTree = "<group>"; };
+		4E9CAF911C55D24D00356701 /* xiaoshi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = xiaoshi.png; path = GMLGame/mySource/xiaoshi.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,17 +121,18 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E3A724A1C56323C00655B62 /* MetalKit.framework in Frameworks */,
+				4E3A72461C560B6C00655B62 /* Metal.framework in Frameworks */,
+				4E150EAE1C48A7E500CCBEC7 /* libz.tbd in Frameworks */,
+				4E8EE7051C3FB53A00678F0F /* CoreGraphics.framework in Frameworks */,
+				4E8EE7031C3FB53200678F0F /* Foundation.framework in Frameworks */,
+				4E8EE7011C3FB52B00678F0F /* CoreFoundation.framework in Frameworks */,
+				4E8EE6FF1C3FB52400678F0F /* AppKit.framework in Frameworks */,
+				4E8EE6FD1C3FB26F00678F0F /* QuartzCore.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4E8EE6D31C3F87EA00678F0F /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4E8EE6DE1C3F87EA00678F0F /* Frameworks */ = {
+		4E9CAF571C55CE3F00356701 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -72,12 +142,79 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4E1373071C464B9300478B93 /* mySource */ = {
+			isa = PBXGroup;
+			children = (
+				4E1373101C4685EA00478B93 /* 5689c663daa48_1025.png */,
+				4E13730E1C46854F00478B93 /* 5689c663daa48_1024.png */,
+				4E13730A1C46831300478B93 /* test.png */,
+				4E1373081C464B9300478B93 /* 5689c663daa48_1024.jpg */,
+			);
+			path = mySource;
+			sourceTree = "<group>";
+		};
+		4E150EB51C48FB3500CCBEC7 /* GMLEngine */ = {
+			isa = PBXGroup;
+			children = (
+				4E9CAF4C1C50B99100356701 /* GMLFactoryManager.swift */,
+				4E9CAF4D1C50B99100356701 /* GMLMonster.swift */,
+				4E4A78911C4CEA7300E091C7 /* GMLObject.swift */,
+				4E4A78931C4CEA7300E091C7 /* GMLSceneManager.swift */,
+				4E4A78821C4B521000E091C7 /* managers */,
+				4E4A78831C4B521000E091C7 /* tools */,
+				4E150EBA1C48FDAE00CCBEC7 /* Event */,
+				4E150EB71C48FB3500CCBEC7 /* TestLayer.swift */,
+				4E150EBD1C48FE0100CCBEC7 /* GMLEventDispatcher.swift */,
+				4E4A78971C4CF7E500E091C7 /* GMLScriptManager.swift */,
+				4E4A789B1C4E1B7E00E091C7 /* GMLEnums.swift */,
+				4E4A789F1C4E34A300E091C7 /* GMLImageManager.swift */,
+				4E9CAF361C4F6B0B00356701 /* GMLRenderManager.swift */,
+				4E9CAF381C4F6FB200356701 /* GMLLayer.swift */,
+			);
+			path = GMLEngine;
+			sourceTree = "<group>";
+		};
+		4E150EBA1C48FDAE00CCBEC7 /* Event */ = {
+			isa = PBXGroup;
+			children = (
+				4E150EBF1C48FF9300CCBEC7 /* GMLEvent.swift */,
+			);
+			path = Event;
+			sourceTree = "<group>";
+		};
+		4E4A78821C4B521000E091C7 /* managers */ = {
+			isa = PBXGroup;
+			children = (
+				4E4A78861C4B523700E091C7 /* GMLDataResourceManager.swift */,
+			);
+			path = managers;
+			sourceTree = "<group>";
+		};
+		4E4A78831C4B521000E091C7 /* tools */ = {
+			isa = PBXGroup;
+			children = (
+				4E4A78841C4B521000E091C7 /* FileReader.swift */,
+				4E4A78881C4B7F9C00E091C7 /* Tool.swift */,
+			);
+			path = tools;
+			sourceTree = "<group>";
+		};
 		4E8EE6BC1C3F87EA00678F0F = {
 			isa = PBXGroup;
 			children = (
+				4E3A72491C56323C00655B62 /* MetalKit.framework */,
+				4E3A72451C560B6C00655B62 /* Metal.framework */,
+				4E9CAF8F1C55D24C00356701 /* dis.png */,
+				4E9CAF901C55D24C00356701 /* siwang.png */,
+				4E9CAF911C55D24D00356701 /* xiaoshi.png */,
+				4E150E991C489FB500CCBEC7 /* libz.tbd */,
+				4E8EE7041C3FB53A00678F0F /* CoreGraphics.framework */,
+				4E8EE7021C3FB53200678F0F /* Foundation.framework */,
+				4E8EE7001C3FB52B00678F0F /* CoreFoundation.framework */,
+				4E8EE6FE1C3FB52400678F0F /* AppKit.framework */,
+				4E8EE6FC1C3FB26F00678F0F /* QuartzCore.framework */,
 				4E8EE6C71C3F87EA00678F0F /* GMLGame */,
-				4E8EE6D91C3F87EA00678F0F /* GMLGameTests */,
-				4E8EE6E41C3F87EA00678F0F /* GMLGameUITests */,
+				4E9CAF5B1C55CE3F00356701 /* iosttt */,
 				4E8EE6C61C3F87EA00678F0F /* Products */,
 			);
 			sourceTree = "<group>";
@@ -86,8 +223,7 @@
 			isa = PBXGroup;
 			children = (
 				4E8EE6C51C3F87EA00678F0F /* GMLGame.app */,
-				4E8EE6D61C3F87EA00678F0F /* GMLGameTests.xctest */,
-				4E8EE6E11C3F87EA00678F0F /* GMLGameUITests.xctest */,
+				4E9CAF5A1C55CE3F00356701 /* iosttt.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,31 +231,40 @@
 		4E8EE6C71C3F87EA00678F0F /* GMLGame */ = {
 			isa = PBXGroup;
 			children = (
+				4E113E171C8ECA3D00686766 /* GMLGame.entitlements */,
+				4E1373071C464B9300478B93 /* mySource */,
 				4E8EE6C81C3F87EA00678F0F /* AppDelegate.swift */,
 				4E8EE6CA1C3F87EA00678F0F /* ViewController.swift */,
+				4E3A72471C5627A400655B62 /* myMetal.metal */,
+				4E150EB51C48FB3500CCBEC7 /* GMLEngine */,
 				4E8EE6CC1C3F87EA00678F0F /* Assets.xcassets */,
 				4E8EE6CE1C3F87EA00678F0F /* Main.storyboard */,
+				4E4F5C891CD0649100783482 /* MutileViewController.swift */,
 				4E8EE6D11C3F87EA00678F0F /* Info.plist */,
+				4E8EE6F51C3F908C00678F0F /* MainController.swift */,
+				4E8EE6FA1C3FA96D00678F0F /* tView.swift */,
+				4E1373121C47B08400478B93 /* ANIView.swift */,
+				4E150E941C48987900CCBEC7 /* HeaderBridge.h */,
+				4E4A78991C4E0A6800E091C7 /* aniTest.plist */,
+				4E9CAF321C4E3DB500356701 /* Starter.swift */,
+				4E9CAF501C51D0A300356701 /* OpenView.swift */,
+				4E3A724B1C5635FC00655B62 /* MetalView.swift */,
 			);
 			path = GMLGame;
 			sourceTree = "<group>";
 		};
-		4E8EE6D91C3F87EA00678F0F /* GMLGameTests */ = {
+		4E9CAF5B1C55CE3F00356701 /* iosttt */ = {
 			isa = PBXGroup;
 			children = (
-				4E8EE6DA1C3F87EA00678F0F /* GMLGameTests.swift */,
-				4E8EE6DC1C3F87EA00678F0F /* Info.plist */,
+				4E9CAF5C1C55CE3F00356701 /* AppDelegate.swift */,
+				4E9CAF5E1C55CE3F00356701 /* MasterViewController.swift */,
+				4E9CAF601C55CE3F00356701 /* DetailViewController.swift */,
+				4E9CAF621C55CE3F00356701 /* Main.storyboard */,
+				4E9CAF651C55CE3F00356701 /* Assets.xcassets */,
+				4E9CAF671C55CE3F00356701 /* LaunchScreen.storyboard */,
+				4E9CAF6A1C55CE3F00356701 /* Info.plist */,
 			);
-			path = GMLGameTests;
-			sourceTree = "<group>";
-		};
-		4E8EE6E41C3F87EA00678F0F /* GMLGameUITests */ = {
-			isa = PBXGroup;
-			children = (
-				4E8EE6E51C3F87EA00678F0F /* GMLGameUITests.swift */,
-				4E8EE6E71C3F87EA00678F0F /* Info.plist */,
-			);
-			path = GMLGameUITests;
+			path = iosttt;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -142,41 +287,22 @@
 			productReference = 4E8EE6C51C3F87EA00678F0F /* GMLGame.app */;
 			productType = "com.apple.product-type.application";
 		};
-		4E8EE6D51C3F87EA00678F0F /* GMLGameTests */ = {
+		4E9CAF591C55CE3F00356701 /* iosttt */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 4E8EE6ED1C3F87EA00678F0F /* Build configuration list for PBXNativeTarget "GMLGameTests" */;
+			buildConfigurationList = 4E9CAF871C55CE3F00356701 /* Build configuration list for PBXNativeTarget "iosttt" */;
 			buildPhases = (
-				4E8EE6D21C3F87EA00678F0F /* Sources */,
-				4E8EE6D31C3F87EA00678F0F /* Frameworks */,
-				4E8EE6D41C3F87EA00678F0F /* Resources */,
+				4E9CAF561C55CE3F00356701 /* Sources */,
+				4E9CAF571C55CE3F00356701 /* Frameworks */,
+				4E9CAF581C55CE3F00356701 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				4E8EE6D81C3F87EA00678F0F /* PBXTargetDependency */,
 			);
-			name = GMLGameTests;
-			productName = GMLGameTests;
-			productReference = 4E8EE6D61C3F87EA00678F0F /* GMLGameTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
-		4E8EE6E01C3F87EA00678F0F /* GMLGameUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 4E8EE6F01C3F87EA00678F0F /* Build configuration list for PBXNativeTarget "GMLGameUITests" */;
-			buildPhases = (
-				4E8EE6DD1C3F87EA00678F0F /* Sources */,
-				4E8EE6DE1C3F87EA00678F0F /* Frameworks */,
-				4E8EE6DF1C3F87EA00678F0F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				4E8EE6E31C3F87EA00678F0F /* PBXTargetDependency */,
-			);
-			name = GMLGameUITests;
-			productName = GMLGameUITests;
-			productReference = 4E8EE6E11C3F87EA00678F0F /* GMLGameUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
+			name = iosttt;
+			productName = iosttt;
+			productReference = 4E9CAF5A1C55CE3F00356701 /* iosttt.app */;
+			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
@@ -190,14 +316,15 @@
 				TargetAttributes = {
 					4E8EE6C41C3F87EA00678F0F = {
 						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = 9Q972K774Y;
+						SystemCapabilities = {
+							com.apple.Sandbox = {
+								enabled = 1;
+							};
+						};
 					};
-					4E8EE6D51C3F87EA00678F0F = {
+					4E9CAF591C55CE3F00356701 = {
 						CreatedOnToolsVersion = 7.2;
-						TestTargetID = 4E8EE6C41C3F87EA00678F0F;
-					};
-					4E8EE6E01C3F87EA00678F0F = {
-						CreatedOnToolsVersion = 7.2;
-						TestTargetID = 4E8EE6C41C3F87EA00678F0F;
 					};
 				};
 			};
@@ -215,8 +342,7 @@
 			projectRoot = "";
 			targets = (
 				4E8EE6C41C3F87EA00678F0F /* GMLGame */,
-				4E8EE6D51C3F87EA00678F0F /* GMLGameTests */,
-				4E8EE6E01C3F87EA00678F0F /* GMLGameUITests */,
+				4E9CAF591C55CE3F00356701 /* iosttt */,
 			);
 		};
 /* End PBXProject section */
@@ -226,22 +352,26 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E9CAF921C55D24D00356701 /* dis.png in Resources */,
+				4E9CAF931C55D24D00356701 /* siwang.png in Resources */,
+				4E9CAF941C55D24D00356701 /* xiaoshi.png in Resources */,
 				4E8EE6CD1C3F87EA00678F0F /* Assets.xcassets in Resources */,
 				4E8EE6D01C3F87EA00678F0F /* Main.storyboard in Resources */,
+				4E1373111C4685EA00478B93 /* 5689c663daa48_1025.png in Resources */,
+				4E1373091C464B9300478B93 /* 5689c663daa48_1024.jpg in Resources */,
+				4E13730F1C46854F00478B93 /* 5689c663daa48_1024.png in Resources */,
+				4E4A789A1C4E0A6800E091C7 /* aniTest.plist in Resources */,
+				4E13730B1C46831300478B93 /* test.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4E8EE6D41C3F87EA00678F0F /* Resources */ = {
+		4E9CAF581C55CE3F00356701 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4E8EE6DF1C3F87EA00678F0F /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				4E9CAF691C55CE3F00356701 /* LaunchScreen.storyboard in Resources */,
+				4E9CAF661C55CE3F00356701 /* Assets.xcassets in Resources */,
+				4E9CAF641C55CE3F00356701 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,41 +382,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4E4F5C8A1CD0649100783482 /* MutileViewController.swift in Sources */,
+				4E3A724C1C5635FC00655B62 /* MetalView.swift in Sources */,
+				4E4A78891C4B7F9C00E091C7 /* Tool.swift in Sources */,
+				4E4A78961C4CEA7300E091C7 /* GMLSceneManager.swift in Sources */,
+				4E8EE6FB1C3FA96D00678F0F /* tView.swift in Sources */,
+				4E3A72481C5627A400655B62 /* myMetal.metal in Sources */,
+				4E9CAF371C4F6B0B00356701 /* GMLRenderManager.swift in Sources */,
+				4E4A78941C4CEA7300E091C7 /* GMLObject.swift in Sources */,
+				4E150EBE1C48FE0100CCBEC7 /* GMLEventDispatcher.swift in Sources */,
+				4E9CAF4E1C50B99100356701 /* GMLFactoryManager.swift in Sources */,
+				4E4A78871C4B523700E091C7 /* GMLDataResourceManager.swift in Sources */,
+				4E1373131C47B08400478B93 /* ANIView.swift in Sources */,
+				4E4A78981C4CF7E600E091C7 /* GMLScriptManager.swift in Sources */,
+				4E150EB91C48FB3500CCBEC7 /* TestLayer.swift in Sources */,
+				4E4A78851C4B521000E091C7 /* FileReader.swift in Sources */,
+				4E9CAF511C51D0A300356701 /* OpenView.swift in Sources */,
+				4E9CAF331C4E3DB500356701 /* Starter.swift in Sources */,
+				4E9CAF4F1C50B99100356701 /* GMLMonster.swift in Sources */,
 				4E8EE6CB1C3F87EA00678F0F /* ViewController.swift in Sources */,
+				4E4A78A01C4E34A300E091C7 /* GMLImageManager.swift in Sources */,
+				4E9CAF391C4F6FB200356701 /* GMLLayer.swift in Sources */,
+				4E8EE6F61C3F908C00678F0F /* MainController.swift in Sources */,
 				4E8EE6C91C3F87EA00678F0F /* AppDelegate.swift in Sources */,
+				4E150EC01C48FF9300CCBEC7 /* GMLEvent.swift in Sources */,
+				4E4A789C1C4E1B7E00E091C7 /* GMLEnums.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		4E8EE6D21C3F87EA00678F0F /* Sources */ = {
+		4E9CAF561C55CE3F00356701 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4E8EE6DB1C3F87EA00678F0F /* GMLGameTests.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		4E8EE6DD1C3F87EA00678F0F /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4E8EE6E61C3F87EA00678F0F /* GMLGameUITests.swift in Sources */,
+				4E9CAF611C55CE3F00356701 /* DetailViewController.swift in Sources */,
+				4E9CAF5F1C55CE3F00356701 /* MasterViewController.swift in Sources */,
+				4E9CAF5D1C55CE3F00356701 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		4E8EE6D81C3F87EA00678F0F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 4E8EE6C41C3F87EA00678F0F /* GMLGame */;
-			targetProxy = 4E8EE6D71C3F87EA00678F0F /* PBXContainerItemProxy */;
-		};
-		4E8EE6E31C3F87EA00678F0F /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 4E8EE6C41C3F87EA00678F0F /* GMLGame */;
-			targetProxy = 4E8EE6E21C3F87EA00678F0F /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		4E8EE6CE1C3F87EA00678F0F /* Main.storyboard */ = {
@@ -295,6 +429,22 @@
 				4E8EE6CF1C3F87EA00678F0F /* Base */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4E9CAF621C55CE3F00356701 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4E9CAF631C55CE3F00356701 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4E9CAF671C55CE3F00356701 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4E9CAF681C55CE3F00356701 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -317,7 +467,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "Mac Developer: Tian Wu (A8H933JBJC)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
@@ -336,10 +486,12 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = macosx;
+				SWIFT_OBJC_BRIDGING_HEADER = GMLGame/HeaderBridge.h;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -361,7 +513,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "-";
+				CODE_SIGN_IDENTITY = "Mac Developer: Tian Wu (A8H933JBJC)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_NS_ASSERTIONS = NO;
@@ -374,9 +526,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = macosx;
+				SWIFT_OBJC_BRIDGING_HEADER = GMLGame/HeaderBridge.h;
 			};
 			name = Release;
 		};
@@ -384,11 +538,20 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = GMLGame/GMLGame.entitlements;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=macosx10.11]" = "";
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = GMLGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.51talk.GMLGame;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.51talkmac.acswiftdeloper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = macosx;
+				SWIFT_OBJC_BRIDGING_HEADER = GMLGame/HeaderBridge.h;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
@@ -396,63 +559,53 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_ENTITLEMENTS = GMLGame/GMLGame.entitlements;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=macosx10.11]" = "";
 				COMBINE_HIDPI_IMAGES = YES;
 				INFOPLIST_FILE = GMLGame/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.51talk.GMLGame;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				PRODUCT_BUNDLE_IDENTIFIER = com.51talkmac.acswiftdeloper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
+				SDKROOT = macosx;
+				SWIFT_OBJC_BRIDGING_HEADER = GMLGame/HeaderBridge.h;
 			};
 			name = Release;
 		};
-		4E8EE6EE1C3F87EA00678F0F /* Debug */ = {
+		4E9CAF811C55CE3F00356701 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = GMLGameTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.51talk.GMLGameTests;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = iosttt/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.51talk.iosttt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GMLGame.app/Contents/MacOS/GMLGame";
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		4E8EE6EF1C3F87EA00678F0F /* Release */ = {
+		4E9CAF821C55CE3F00356701 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = GMLGameTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.51talk.GMLGameTests;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				INFOPLIST_FILE = iosttt/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.51talk.iosttt;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GMLGame.app/Contents/MacOS/GMLGame";
-			};
-			name = Release;
-		};
-		4E8EE6F11C3F87EA00678F0F /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = GMLGameUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.51talk.GMLGameUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = GMLGame;
-				USES_XCTRUNNER = YES;
-			};
-			name = Debug;
-		};
-		4E8EE6F21C3F87EA00678F0F /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				COMBINE_HIDPI_IMAGES = YES;
-				INFOPLIST_FILE = GMLGameUITests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.51talk.GMLGameUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_TARGET_NAME = GMLGame;
-				USES_XCTRUNNER = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
@@ -466,7 +619,7 @@
 				4E8EE6E91C3F87EA00678F0F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
+			defaultConfigurationName = Debug;
 		};
 		4E8EE6EA1C3F87EA00678F0F /* Build configuration list for PBXNativeTarget "GMLGame" */ = {
 			isa = XCConfigurationList;
@@ -475,22 +628,16 @@
 				4E8EE6EC1C3F87EA00678F0F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
-		4E8EE6ED1C3F87EA00678F0F /* Build configuration list for PBXNativeTarget "GMLGameTests" */ = {
+		4E9CAF871C55CE3F00356701 /* Build configuration list for PBXNativeTarget "iosttt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				4E8EE6EE1C3F87EA00678F0F /* Debug */,
-				4E8EE6EF1C3F87EA00678F0F /* Release */,
+				4E9CAF811C55CE3F00356701 /* Debug */,
+				4E9CAF821C55CE3F00356701 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		4E8EE6F01C3F87EA00678F0F /* Build configuration list for PBXNativeTarget "GMLGameUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				4E8EE6F11C3F87EA00678F0F /* Debug */,
-				4E8EE6F21C3F87EA00678F0F /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
 		};
 /* End XCConfigurationList section */
 	};

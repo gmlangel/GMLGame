@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>iosttt.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,21 @@
 			<true/>
 		</dict>
 		<key>4E8EE6E01C3F87EA00678F0F</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4E9CAF591C55CE3F00356701</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4E9CAF6E1C55CE3F00356701</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4E9CAF791C55CE3F00356701</key>
 		<dict>
 			<key>primary</key>
 			<true/>
